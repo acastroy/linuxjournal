@@ -68,4 +68,5 @@ This is completly inspired by open source community and linux community and offc
 I hope this [LINUX JOURNAL archive](https://github.com/acastroy/linuxjournal) have the information you need as happen to me and many others,
 
 Best Regards
+
 AC
