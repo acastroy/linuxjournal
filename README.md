@@ -20,5 +20,5 @@ Final Letter from the Editor: The Awkward Goodbye
 _by Kyle Rankin_
 _Kyle Rankin - August 7, 2019_
 
-# GOOGBYE LINUX JOURNAL! and WELCOME LINUX JOURNAL!
+## GOODBYE LINUX JOURNAL! and WELCOME LINUX JOURNAL!
 _The Open-Source Crusaders_

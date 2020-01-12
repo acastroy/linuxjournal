@@ -3,5 +3,5 @@
 # LINUX JOURNAL
 ### Since 1994: The Original Magazine of the Linux Community
 
-# GOOGBYE LINUX JOURNAL! and WELCOME LINUX JOURNAL!
+## GOODBYE LINUX JOURNAL! and WELCOME LINUX JOURNAL!
 _The Open-Source Crusaders_
