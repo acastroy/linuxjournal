@@ -67,10 +67,16 @@ Just see online or download and use this historical informationTo run this proje
 
 ```
 #!/bin/bash
-linuxjournal="magazine|ebook|video|podcast|blog|linux|help|remember|fun"
+linuxjournal=""
 whattodo=""
-if [ -f /root/need/linuxjournal ]; then
-    whattodo="/root/just/see-download.sh"; sh $whattodo; echo "Be Happy :-)";
+if [ -f /root/need and !linuxjournal and !whattodo ]; then
+    linuxjournal="magazine|ebook|video|podcast|blog|linux|help|remember|fun"
+    whattodo="/root/just/see-download.sh";
+    sh $whattodo;
+    echo "Be Happy :-)";
+    exit 0
+elseif
+    exit 9999999
 fi
 ```
 
