@@ -42,8 +42,8 @@ In 2019, at first time I create my local archive with my subscriptions files and
 ## STATUS
   Status by each file or folder
 * README.md with basic information
-* Magazines, ready with original [LINUX JOURNAL](https://www.linusjournal.com/) PDF, ePub, and Mobi files (where was originally available).
-* Archive, ready with 1994 to 2018 with original [LINUX JOURNAL](https://www.linusjournal.com/) LJArchive1994-2018 compressed file.
+* Magazines, ready with original [LINUX JOURNAL](https://www.linusjournal.com/) PDF, ePub, and Mobi files (where was originally available) from 2005 to 2019.
+* Archive, ready with 1994 to 2018 from the original [LINUX JOURNAL](https://www.linusjournal.com/) 1994-2018 compressed archive file.
 * eBooks, ready with original eBook files from [LINUX JOURNAL](https://www.linusjournal.com/)
 
 ## TO DO
