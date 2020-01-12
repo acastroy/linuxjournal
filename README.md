@@ -31,10 +31,12 @@ _The Open-Source Crusaders_
 4. Youtube download for local publishing
 5. Podcasts download for local publishing
 
-any additional or contribution, let me know to work and include,
+any additional requirement, files that you have, or contribution, let me know to work in that to be included here,
 
 ### Why this?
-I loved this magazine from the first issue in 1994, there is a lot of very good information and history for me and many others,
+I loved this magazine from the first issue in 1994, I use a lot of excelent information from this magazine to start all my linux projects from 1994 until today.
+I have a lot of history in linux, unix, networking, development, operations and many others thanks to this magazine, and this is my contribution to keep alive the Linux Journal information to everyone.
+
 I hope you find the information you need in this archive,
 
 Best Regards
