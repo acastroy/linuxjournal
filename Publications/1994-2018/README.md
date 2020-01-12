@@ -1,7 +1,7 @@
 ![LINUX JOURNAL Since 1994: The Original Magazine of the Linux Community](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_ljlogo.png)
 # LINUX JOURNAL
 ## Since 1994: The Original Magazine of the Linux Community
-![LINUX JOURNAL ARCHIVE](https://raw.githubusercontent.com/acastroy/linuxjournal/master/Publications/1994-2018/images/CD_Index.png
+![LINUX JOURNAL ARCHIVE](https://raw.githubusercontent.com/acastroy/linuxjournal/master/Publications/1994-2018/images/CD_Index.png)
 ![TIME TO SAY GOODBYE](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_bigstock-Torn-Red-Paper-Revealing-The-W-294597019_0.jpg)
 
 ### Linux Journal Ceases Publication: An Awkward Goodbye
