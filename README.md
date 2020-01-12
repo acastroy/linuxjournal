@@ -24,20 +24,45 @@ _Kyle Rankin - August 7, 2019_
 _The Open-Source Crusaders_
 
 
-### Work in progress...
-1. README.md changes
-2. Website archive for local publishing
-3. 1994-2019 Archive to include 2019 issues in Archive
-4. Youtube download for local publishing
-5. Podcasts download for local publishing
+# LINUX JOURNAL ARCHIVE
+## Table of contents
+* [LINUX JOURNAL](#linux-journal)
+* [TO DO](#to-do)
+* [USAGE](#usage)
+* [INSPIRATION](#inspiration)
 
-any additional requirement, files that you have, or contribution, let me know to work in that to be included here,
+## LINUX JOURNAL
+I loved LINUX JOURNAL magazine from the first issue in 1994, I use a lot of excelent information from this magazine to start all my linux projects from 1994 until today.
+I have a lot of history in linux, unix, windows and other os, networking, database, development, operations and many others thanks to this magazine, I'm very sad for this lost to the open source and linux community, and this is my contribution to keep alive the LINUX JOURNAL information to everyone.
+In 2019, at first time I create my local archive with from my subscriptions and buyed items from LINUX JOURNAL, then I think in publish them here in github to share with everyone, after all github have a lot of Linux and open source community history and thanks to that we and more than one company exist.
+	
+## TO DO
+  Work in progress...
+* README.md, add every folder description.
+* Website archive.
+* 1994-2019 Archive, to include 2019 issues
+* Youtube videos download to be archive here.
+* Youtube videos download to be included in website archive.
+* Podcast audios download to be archive here.
+* Podcast audios download to be included in website archive.
+* Publish compressed files to be available for download.
 
-### Why this?
-I loved this magazine from the first issue in 1994, I use a lot of excelent information from this magazine to start all my linux projects from 1994 until today.
-I have a lot of history in linux, unix, networking, development, operations and many others thanks to this magazine, and this is my contribution to keep alive the Linux Journal information to everyone.
+Any additional requirement, files that you have, or contribution, let me know to work in that to be included here.
+I hope we are on time to get all the information before we lost :-( any help or comments will be welcome :-)
 
-I hope you find the information you need in this archive,
+## USAGE
+Just see online or download and use this historical informationTo run this project, 
+
+```
+$ see online or
+$ download and use
+$ be happy :-)
+```
+
+## INSPIRATION
+This is completly inspired by open source community and linux community and offcourse "[LINUX JOURNAL](https://www.linusjournal.com/) magazine", to share with the community and don't lost part of our history.
+
+I hope this LINUX JOURNAL archive have the information you need as happen to me and many others,
 
 Best Regards
 AC
