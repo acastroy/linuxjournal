@@ -1,1 +1,0 @@
-linuxjournal/tmp/img/
