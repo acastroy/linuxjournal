@@ -22,3 +22,20 @@ _Kyle Rankin - August 7, 2019_
 
 ## GOODBYE LINUX JOURNAL! and WELCOME LINUX JOURNAL!
 _The Open-Source Crusaders_
+
+
+### Work in progress...
+1. README.md changes
+2. Website archive for local publishing
+3. 1994-2019 Archive to include 2019 issues in Archive
+4. Youtube download for local publishing
+5. Podcasts download for local publishing
+
+any additional or contribution, let me know to work and include,
+
+### Why this?
+I loved this magazine from the first issue in 1994, there is a lot of very good information and history for me and many others,
+I hope you find the information you need in this archive,
+
+Best Regards
+AC
