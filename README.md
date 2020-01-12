@@ -39,7 +39,6 @@ I have a lot of history in linux, unix, windows and other os, networking, databa
 In 2019, at first time I create my local archive with my subscriptions files and buyed items from LINUX JOURNAL, then I think in publish them here in github to share with everyone, after all github have a lot of Linux and open source community history and thanks to linux  we and more than one company exist.
 	
 ## TO DO
-  Work in progress...
 * README.md, add every folder description.
 * Website archive.
 * 1994-2019 Archive, to include 2019 issues
