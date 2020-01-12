@@ -34,7 +34,7 @@ _The Open-Source Crusaders_
 ## LINUX JOURNAL
 I loved LINUX JOURNAL magazine from the first issue in 1994, I use a lot of excelent information from this magazine to start all my linux projects from 1994 until today.
 I have a lot of history in linux, unix, windows and other os, networking, database, development, operations and many others thanks to this magazine, I'm very sad for this lost to the open source and linux community, and this is my contribution to keep alive the LINUX JOURNAL information to everyone.
-In 2019, at first time I create my local archive with from my subscriptions and buyed items from LINUX JOURNAL, then I think in publish them here in github to share with everyone, after all github have a lot of Linux and open source community history and thanks to that we and more than one company exist.
+In 2019, at first time I create my local archive with my subscriptions files and buyed items from LINUX JOURNAL, then I think in publish them here in github to share with everyone, after all github have a lot of Linux and open source community history and thanks to linux  we and more than one company exist.
 	
 ## TO DO
   Work in progress...
