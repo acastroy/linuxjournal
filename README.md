@@ -63,10 +63,11 @@ I hope we are on time to get all the information before we lost :-( any help or 
 
 
 ## USAGE
-Just see online or download and use this historical informationTo run this project, 
+Just see online or download and use this historical information.
 
 ```
 #!/bin/bash
+# Juast a joke
 linuxjournal=""
 whattodo=""
 if [ -f /root/need and !linuxjournal and !whattodo ]; then
