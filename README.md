@@ -27,6 +27,7 @@ _The Open-Source Crusaders_
 # LINUX JOURNAL ARCHIVE
 ## Table of contents
 * [LINUX JOURNAL](#linux-journal)
+* [STATUS](#status)
 * [TO DO](#to-do)
 * [USAGE](#usage)
 * [INSPIRATION](#inspiration)
@@ -37,9 +38,17 @@ I loved LINUX JOURNAL magazine from the first issue in 1994, I use a lot of exce
 I have a lot of history in linux, unix, windows and other os, networking, database, development, operations and many others thanks to this magazine, I'm very sad for this lost to the open source and linux community, and this is my contribution to keep alive the LINUX JOURNAL information to everyone.
 
 In 2019, at first time I create my local archive with my subscriptions files and buyed items from LINUX JOURNAL, then I think in publish them here in github to share with everyone, after all github have a lot of Linux and open source community history and thanks to linux  we and more than one company exist.
-	
+
+## STATUS
+  Status by each file or folder
+* README.md with basic information
+* Magazines, ready with original [LINUX JOURNAL](https://www.linusjournal.com/) PDF, ePub, and Mobi files (where was originally available).
+* Archive, ready with 1994 to 2018 with original [LINUX JOURNAL](https://www.linusjournal.com/) LJArchive1994-2018 compressed file.
+* eBooks, ready with original eBook files from [LINUX JOURNAL](https://www.linusjournal.com/)
+
 ## TO DO
 * README.md, add every folder description.
+* img, add additional image files used for README.md.
 * Website archive.
 * 1994-2019 Archive, to include 2019 issues
 * Youtube videos download to be archive here.
