@@ -1,4 +1,5 @@
 ![LINUX JOURNAL Since 1994: The Original Magazine of the Linux Community](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_ljlogo.png)
+![LINUX JOURNAL 2005 Collection](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_linux-covers.png)
 # LINUX JOURNAL
 ## Since 1994: The Original Magazine of the Linux Community
 ![TIME TO SAY GOODBYE](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_bigstock-Torn-Red-Paper-Revealing-The-W-294597019_0.jpg)
