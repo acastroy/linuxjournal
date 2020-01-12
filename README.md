@@ -1,9 +1,12 @@
-![LINUX JOURNAL Since 1994: The Original Magazine of the Linux Community](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_ljlogo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_ljlogo.png" alt="LINUX JOURNAL Since 1994: The Original Magazine of the Linux Community">
+
 # LINUX JOURNAL
 ## Since 1994: The Original Magazine of the Linux Community
-![TIME TO SAY GOODBYE](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_bigstock-Torn-Red-Paper-Revealing-The-W-294597019_0.jpg)
+<img src="https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_bigstock-Torn-Red-Paper-Revealing-The-W-294597019_0.jpg" alt="TIME TO SAY GOODBYE">
 
 ### Linux Journal Ceases Publication: An Awkward Goodbye
+</p>
 
 IMPORTANT NOTICE FROM LINUX JOURNAL, LLC:
 
