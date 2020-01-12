@@ -6,7 +6,10 @@
 </p>
 # LINUX JOURNAL
 ## Since 1994: The Original Magazine of the Linux Community
-![TIME TO SAY GOODBYE](https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_bigstock-Torn-Red-Paper-Revealing-The-W-294597019_0.jpg)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_bigstock-Torn-Red-Paper-Revealing-The-W-294597019_0.jpg" alt="TIME TO SAY GOODBYE">
+</p>
 
 ### Linux Journal Ceases Publication: An Awkward Goodbye
 
