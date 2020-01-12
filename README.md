@@ -66,9 +66,12 @@ I hope we are on time to get all the information before we lost :-( any help or 
 Just see online or download and use this historical informationTo run this project, 
 
 ```
-$ see online or
-$ download and use
-$ be happy :-)
+#!/bin/bash
+linuxjournal="magazine|ebook|video|podcast|blog|linux|help|remember|fun"
+whattodo=""
+if [ -f /root/need/linuxjournal ]; then
+    whattodo="/root/just/see-download.sh"; sh $whattodo; echo "Be Happy :-)";
+fi
 ```
 
 ## INSPIRATION
