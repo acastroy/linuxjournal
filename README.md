@@ -10,17 +10,17 @@
 
 ### Linux Journal Ceases Publication: An Awkward Goodbye
 
-IMPORTANT NOTICE FROM LINUX JOURNAL, LLC:
+IMPORTANT NOTICE FROM [LINUX JOURNAL](https://www.linusjournal.com/), LLC:
 
-On August 7, 2019, Linux Journal shut its doors for good. All staff were laid off and the company is left with no operating funds to continue in any capacity. The website will continue to stay up for the next few weeks, hopefully longer for archival purposes if we can make it happen.
+On August 7, 2019, [LINUX JOURNAL](https://www.linusjournal.com/) shut its doors for good. All staff were laid off and the company is left with no operating funds to continue in any capacity. The website will continue to stay up for the next few weeks, hopefully longer for archival purposes if we can make it happen.
 
-–Linux Journal, LLC
+–[LINUX JOURNAL](https://www.linusjournal.com/), LLC
 
 Final Letter from the Editor: The Awkward Goodbye
 _by Kyle Rankin_
 _Kyle Rankin - August 7, 2019_
 
-## GOODBYE LINUX JOURNAL! and WELCOME LINUX JOURNAL!
+## GOODBYE [LINUX JOURNAL](https://www.linusjournal.com/)! and WELCOME [LINUX JOURNAL](https://github.com/acastroy/linuxjournal/) archive!
 _The Open-Source Crusaders_
 
 
@@ -33,11 +33,11 @@ _The Open-Source Crusaders_
 * [INSPIRATION](#inspiration)
 
 ## LINUX JOURNAL
-I loved LINUX JOURNAL magazine from the first issue in 1994, I use a lot of excelent information from this magazine to start all my linux projects from 1994 until today.
+I loved [LINUX JOURNAL magazine](https://www.linusjournal.com/) from the first issue in 1994, I use a lot of excelent information from this magazine to start all my linux projects from 1994 until today.
 
 I have a lot of history in linux, unix, windows and other os, networking, database, development, operations and many others thanks to this magazine, I'm very sad for this lost to the open source and linux community, and this is my contribution to keep alive the LINUX JOURNAL information to everyone.
 
-In 2019, at first time I create my local archive with my subscriptions files and buyed items from LINUX JOURNAL, then I think in publish them here in github to share with everyone, after all github have a lot of Linux and open source community history and thanks to linux  we and more than one company exist.
+In 2019, at first time I create my local archive with my subscriptions files and buyed items from [LINUX JOURNAL](https://www.linusjournal.com/), then I think in publish them here in github to share with everyone, after all github have a lot of Linux and open source community history and thanks to linux more than one of us and companies exist.
 
 ## STATUS
   Status by each file or folder
