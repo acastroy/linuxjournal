@@ -67,7 +67,7 @@ Just see online or download and use this historical information.
 ## INSPIRATION
 Inspired by open source community and linux community sharing and offcourse "[LINUX JOURNAL magazine](https://www.linusjournal.com/)"  filosophy to share with the community.
 
-I hope this [LINUX JOURNAL archive](https://github.com/acastroy/linuxjournal) have the information you need as happen to me and many others.
+I hope this [LINUX JOURNAL archive](https://github.com/acastroy/linuxjournal) have the information and knowledgement needed by you, as happen to me and many others.
 
 
 Best Regards
