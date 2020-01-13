@@ -65,9 +65,6 @@ I hope we are on time to get all the information before we lost :-( any help or 
 ## USAGE
 Just see online or download and use this historical information.
 
-```
-```
-
 ## INSPIRATION
 This is completly inspired by open source community and linux community and offcourse "[LINUX JOURNAL magazine](https://www.linusjournal.com/)", to share with the community and don't lost part of our history.
 
