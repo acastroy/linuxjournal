@@ -66,19 +66,6 @@ I hope we are on time to get all the information before we lost :-( any help or 
 Just see online or download and use this historical information.
 
 ```
-#!/bin/bash
-# Juast a joke
-linuxjournal=""
-whattodo=""
-if [ -f /root/need and !linuxjournal and !whattodo ]; then
-    linuxjournal="magazine|ebook|video|podcast|blog|linux|help|remember|fun"
-    whattodo="/root/just/see-download.sh";
-    sh $whattodo;
-    echo "Be Happy :-)";
-    exit 0
-elseif
-    exit 9999999
-fi
 ```
 
 ## INSPIRATION
