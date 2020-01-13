@@ -10,9 +10,9 @@
 
 ### Linux Journal Ceases Publication: An Awkward Goodbye
 
-IMPORTANT NOTICE FROM [LINUX JOURNAL](https://www.linusjournal.com/), LLC:
+IMPORTANT NOTICE FROM [LINUX JOURNAL](https://www.linuxjournal.com/content/linux-journal-ceases-publication-awkward-goodbye), LLC:
 
-On August 7, 2019, [LINUX JOURNAL](https://www.linusjournal.com/) shut its doors for good. All staff were laid off and the company is left with no operating funds to continue in any capacity. The website will continue to stay up for the next few weeks, hopefully longer for archival purposes if we can make it happen.
+On August 7, 2019, [LINUX JOURNAL](https://www.linuxjournal.com/content/linux-journal-ceases-publication-awkward-goodbye) shut its doors for good. All staff were laid off and the company is left with no operating funds to continue in any capacity. The website will continue to stay up for the next few weeks, hopefully longer for archival purposes if we can make it happen.
 
 –[LINUX JOURNAL](https://www.linusjournal.com/), LLC
 
