@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_ljlogo.png" alt="LINUX JOURNAL Since 1994: The Original Magazine of the Linux Community">
 </p>
-
+<p align="center">
 ## Since 1994: The Original Magazine of the Linux Community
-
+</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/acastroy/linuxjournal/master/img/Linux_Journal_bigstock-Torn-Red-Paper-Revealing-The-W-294597019_0.jpg" alt="TIME TO SAY GOODBYE">
 </p>
@@ -50,25 +50,25 @@ In 2019, at first time I create my local archive with my subscriptions files and
 * README.md, add every folder description.
 * img, add additional image files used for README.md.
 * Website archive.
-* 1994-2019 Archive, to include 2019 issues
-* Youtube videos download to be archive here.
-* Youtube videos download to be included in website archive.
-* Podcast audios download to be archive here.
-* Podcast audios download to be included in website archive.
-* Publish compressed files to be available for download.
+* 1994-2019 Archive, review and update to include 2019 issues
+* Youtube videos download to be archived here.
+* Website review/update to include youtube videos in website archive.
+* Podcast audios download to be archived here.
+* Website review/update to include podcast audios in website archive.
+* Publish compressed files.
 
 Any additional requirement, files that you have, or contribution, let me know to work in that to be included here.
 
 I hope we are on time to get all the information before we lost :-( any help or comments will be welcome :-)
 
-
 ## USAGE
 Just see online or download and use this historical information.
 
 ## INSPIRATION
-This is completly inspired by open source community and linux community and offcourse "[LINUX JOURNAL magazine](https://www.linusjournal.com/)", to share with the community and don't lost part of our history.
+Inspired by open source community and linux community sharing and offcourse "[LINUX JOURNAL magazine](https://www.linusjournal.com/)"  filosophy to share with the community.
 
-I hope this [LINUX JOURNAL archive](https://github.com/acastroy/linuxjournal) have the information you need as happen to me and many others,
+I hope this [LINUX JOURNAL archive](https://github.com/acastroy/linuxjournal) have the information you need as happen to me and many others.
+
 
 Best Regards
 
